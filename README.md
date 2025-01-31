@@ -73,8 +73,7 @@ Prediction: This is a Dog 🐶
 
 # How to Run
 - Clone the repository:
-git clone https://github.com/yourusername/cat-dog-classification.git
-cd cat-dog-classification
+git clone https://github.com/AnilJadhavProgrammer/Cat-Dog-Classification-Model/tree/main
 - Install dependencies:
 pip install -r requirements.txt
 # Train the model:
